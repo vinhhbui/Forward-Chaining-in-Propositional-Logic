@@ -1,7 +1,3 @@
-Of course, here is a `readme.md` file based on the provided notebook.
-
------
-
 # Forward Chaining Inference Engine
 
 This project provides a Python implementation of a **Forward Chaining algorithm** for propositional logic. It's designed to determine whether a given knowledge base (KB) entails a specific query. The engine can load logical clauses from a file, visualize the knowledge base as a dependency graph, and trace the step-by-step inference process.
